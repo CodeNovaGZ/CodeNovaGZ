@@ -34,7 +34,7 @@ I am currently building my portfolio with practical projects:
 - 🎮 **Logic / Brain Games (Console-based)**  
   Small interactive games focused on problem-solving and logic.
 
-- ⬇️ **Web Downloader Tool (In progress)**  
+- ⬇️ **Web Downloader Tool**  
   Tool for downloading web content and experimenting with HTTP requests.
 
 These projects are part of my learning process and help me improve logic, programming structure, and problem-solving.
