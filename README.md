@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Maicol
+# 👋 Hi, I'm Michael
 
 Systems Engineering student focused on becoming a frontend developer.  
 I’m currently building my skills through real projects, structured learning, and constant practice. My goal is to become a strong developer capable of working remotely and creating useful software.
