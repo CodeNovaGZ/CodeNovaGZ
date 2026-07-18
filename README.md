@@ -1,106 +1,108 @@
-
 # 👋 Hi, I'm Michael
 
-Systems Engineering student focused on becoming a frontend developer.  
-I’m currently building my skills through real projects, structured learning, and constant practice. My goal is to become a strong developer capable of working remotely and creating useful software.
+Frontend Developer in progress — Systems Engineering student at Universidad EAN (4th semester).
 
-I like learning by building, making mistakes, and improving through iteration.
+I learn by building real projects, making mistakes, and iterating. My goal is to become a strong frontend developer capable of working remotely and creating useful software.
 
----
-
-## 🎓 Education
-
-**Systems Engineering**  
-Universidad EAN — 4th semester (In progress)
-
----
-
-## 📚 Additional Education
-
-- Object-Oriented Programming with Java — EanX
-- Learn Programming with Python — EanX
-- Full Stack Development Course — CODICA (In progress)
-- Continuous self-learning through project-based practice
-
----
-
-## 💼 Projects
-
-I am currently building my portfolio with practical projects:
-
-- 📁 **File Comparator (JSON/YML/etc.)**  
-  Console application to compare structured files and detect differences.
-
-- 🎮 **Logic / Brain Games (Console-based)**  
-  Small interactive games focused on problem-solving and logic.
-
-- ⬇️ **Web Downloader Tool**  
-  Tool for downloading web content and experimenting with HTTP requests.
-
-These projects are part of my learning process and help me improve logic, programming structure, and problem-solving.
-
----
-
-## 🧠 About Me
-
-I’m a disciplined learner who knows where I want to go. I focus on long-term growth and consistency over shortcuts.
-
-I enjoy building things from scratch and improving them step by step.
-
-My mindset:
 > Build → Break → Learn → Improve → Repeat
-
-I’m currently strengthening my frontend skills while exploring how real systems work.
 
 ---
 
 ## ⚙️ Skills
 
 ### Frontend
-- HTML (Advanced)
-- CSS (Intermediate-Advanced)
-- JavaScript (Intermediate, growing through projects)
+- HTML5 / CSS3 (Advanced)
+- JavaScript ES6+ (Intermediate)
+- TypeScript (Intermediate)
+- React.js (Intermediate)
+- Tailwind CSS (Intermediate)
+- Bootstrap (Intermediate)
 
-### Tools
-- Git & GitHub (Intermediate)
-- Basic command-line usage
+### Tools & Ecosystem
+- Git & GitHub
+- Vite
+- Jest (testing)
+- Node.js / npm
 
 ### Fundamentals
-- Basic algorithms and problem solving
-- Databases (basic knowledge, SQL introduction)
-- HTTP, DNS, client-server concepts (basic understanding)
-- Object-Oriented Programming (Java basics)
+- REST APIs & HTTP concepts
+- Object-Oriented Programming (Java)
+- SQL (basic)
+- UML diagrams
+
+---
+
+## 💼 Projects
+
+### 🗂️  Goal Manager (Collaborative)
+> TypeScript · React · TanStack Query · Tailwind CSS · Express · PostgreSQL · Prisma
+
+Collaborative goal-tracking web app. Fullstack project with a dockerized PostgreSQL backend. I focused entirely on the frontend — component architecture, routing, API integration with TanStack Query, and form validation with Zod. **MVP is functional.**
+
+---
+
+### ✅ To Do App
+> React.js · JavaScript · CSS3
+
+Mobile-first task management app. Features dynamic task rendering, category filtering, and search bar. Dashboard, navbar and header fully built. **In progress.**
+
+---
+
+### 📰 RSS Aggregator
+> HTML · CSS · JavaScript · Vite · Bootstrap
+
+Web app to subscribe to RSS feeds, add multiple sources, and visualize entries in real time from the browser. **In progress.**
+
+---
+
+### 🧠 Brain Games
+> JavaScript · Node.js
+
+Collection of 6 console-based logic and math games (even/odd, arithmetic, GCD, progressions, prime numbers). Modular architecture with a central launcher and independent modules. **Completed.**
+
+---
+
+### 🔍 Gendiff
+> JavaScript · Node.js
+
+CLI tool to compare JSON, YAML and YML config files, including nested structures. Supports 3 output formats: stylish, plain and json. **Completed.**
+
+---
+
+### ⬇️ Page Loader
+> JavaScript · Node.js
+
+CLI tool that downloads a web page with all its local resources (HTML, CSS, JS, images) and rewrites links for offline navigation. Supports configurable concurrent downloads. **Completed.**
+
+---
+
+## 🎓 Education
+
+**Systems Engineering** — Universidad EAN, Bogotá · 2025–Present (4th semester)
+
+### Additional
+- Object-Oriented Programming with Java — EanX
+- Learn Programming with Python — EanX
+- Full Stack Development Course — CODICA *(In progress)*
 
 ---
 
 ## 🚀 Goals
 
-- Become a Frontend Developer
-- Get my first real job or internship (remote preferred)
-- Build a strong portfolio with real-world projects
-- Learn React and modern frontend tools
-- Improve my English for tech environments
-- Gain real-world software development experience
-
----
-
-## 🧠 Mindset
-
-I’m not focused on shortcuts. I’m focused on becoming good.
-
-At my age, I’m building the foundation that will define my future as a developer. I enjoy learning, improving, and accepting mistakes as part of the process.
+- Land my first job or internship as a Frontend Developer *(remote preferred)*
+- Deploy production-ready projects with real users
+- Master React, TypeScript and modern frontend tooling
+- Improve English for tech environments
+- Keep building, keep shipping
 
 ---
 
 ## 📫 Contact
 
-- GitHub: https://github.com/CodeNovaGZ
-- LinkedIn: www.linkedin.com/in/michael-gonzalez-985567344
-- Email: mdgonzalez4124@gmail.com
+- 📧 mdgonzalez4124@gmail.com
+- 💼 [linkedin.com/in/michael-gonzalez-985567344](https://www.linkedin.com/in/michael-gonzalez-985567344)
+- 🐙 [github.com/CodeNovaGZ](https://github.com/CodeNovaGZ)
 
 ---
 
-## 📌 Status
-
-🟡 Actively learning and building projects  
-🟡 Looking for first opportunities (internships / junior roles)
+🟡 Actively learning and building · 🟡 Open to junior roles & internships
