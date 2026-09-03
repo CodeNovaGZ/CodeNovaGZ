@@ -41,13 +41,6 @@ Collaborative goal-tracking web app. Fullstack project with a dockerized Postgre
 
 ---
 
-### ✅ To Do App
-> React.js · JavaScript · CSS3
-
-Mobile-first task management app. Features dynamic task rendering, category filtering, and search bar. Dashboard, navbar and header fully built. **In progress.**
-
----
-
 ### 📰 RSS Aggregator
 > HTML · CSS · JavaScript · Vite · Bootstrap
 
