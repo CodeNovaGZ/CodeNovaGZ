@@ -78,7 +78,7 @@ Collaborative goal-tracking web app with a dockerized Node/Express + PostgreSQL 
 
 ---
 
-### 📰 [RSS Aggregator](https://github.com/CodeNovaGZ/Kairos)
+### 📰 [RSS Aggregator](https://github.com/CodeNovaGZ/agregador-rss)
 `HTML` `CSS` `JavaScript` `Vite` `Bootstrap`
 
 Web app to subscribe to RSS feeds, add multiple sources, and view live updated entries from the browser.
