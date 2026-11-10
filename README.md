@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Michael
 
-### Full Stack Developer in progress — currently frontend-focused | Systems Engineering student @ Universidad EAN (4th semester)
+### Full Stack Developer in progress | Systems Engineering student @ Universidad EAN (4th semester)
 
 I learn by building real projects, making mistakes, and iterating.
 My goal: become a well-rounded full stack developer — comfortable across the whole stack — capable of working remotely and shipping useful software end-to-end.
